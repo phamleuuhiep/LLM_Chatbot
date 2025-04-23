@@ -13,7 +13,7 @@ pip install gradio openai==0.28.0 python-dotenv requests beautifulsoup4 pymupdf
 Step 3: Run the Python source code
 python3 app.py
 
-### CMD (windows)
+### PowerShell (windows)
 Step 1: Create a virtual environment 
 python3 -m venv myenv
 myenv\Scripts\activate
